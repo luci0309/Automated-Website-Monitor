@@ -186,6 +186,11 @@ To stop monitoring:
 CTRL + C
 ```
 
+## Application Preview
+
+![Website Monitoring Output](screenshots/monitoring-output.png)
+
+
 ## Sample Output
 
 ```text
